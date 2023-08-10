@@ -84,12 +84,12 @@ Several notebooks are contained within this repo, each for the model that was te
 
 Second best (Model 1):
 
-[rowrowrowrow](original_actual_vs_strategy.png)
+![image](original_actual_vs_strategy.png?raw=true "original_actual_vs_strategy.png") 
 
 
 Best (Model 4):
 
-[rowrowrowrow](ada_boost_strategy.png)
+![image](ada_boost_strategy.png?raw=true "ada_boost_strategy.png") 
 
 ---
 
